@@ -8,6 +8,13 @@ title: Flawless Hacks - CSS
 }
 </style>
 
+<section markdown="block" class="intro-slide">
+# CSS 
+
+### Give your page _some_ style! 😎
+
+</section>
+
 
 <section markdown="block">
 ## Hm. So Many Elements.
