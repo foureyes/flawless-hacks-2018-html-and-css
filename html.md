@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: flawless hacks - html
+title: Flawless Hacks - HTML
 ---
 
 <section markdown="block" class="intro-slide">
